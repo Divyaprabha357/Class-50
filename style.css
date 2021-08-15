@@ -1,0 +1,18 @@
+*{
+   
+    
+    padding: 9px;
+    border: 1.5px solid black;
+}
+.Topic{
+    background-color: teal;
+    display : flex;
+ 
+     flex-direction: row;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: space;
+
+     order: 5;
+     flex-grow: 4;
+}
